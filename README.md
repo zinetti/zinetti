@@ -4,7 +4,17 @@
 
 I am a **Software Engineer** passionate about solving complex problems with simple and rapid solutions. I love discovering bugs and fixing them, and I am dedicated to creating great things for the betterment of humanity through technology.
 
-Currently, I am focused on learning and developing my skills as a software engineer, enhancing my hard skills, and working towards becoming a Full Stack Developer. 🚀
+Currently, I am focusing on learning and developing my skills as a software engineer, enhancing my hard skills, and working towards becoming a Full Stack Developer. 
+
+🚀 I am specializing in:
+- **TypeScript**
+- **Node.js**
+- **SQL**
+- **Prisma ORM**
+- **Bootstrap**
+- **React**
+- **Next.js**
+- **MongoDB**
 
 ## 🌟 Interests
 
@@ -20,7 +30,7 @@ I am passionate about **Electronic Music** and enjoy connecting with people. Fun
 
 - Improving my skills in both frontend and backend development.
 - Building exciting and impactful projects.
-- Continuing to learn and grow in the tech industry.
+- Continuously learning and growing in the tech industry.
 
 Feel free to connect with me or explore my repositories. Let's collaborate and make great things happen!
 
