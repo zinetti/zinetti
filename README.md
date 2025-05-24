@@ -26,6 +26,8 @@ Currently, I am focusing on learning and developing my skills as a software engi
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-f03500?style=for-the-badge&logo=laravel&logoColor=white"/>
+  
 
 </p>
 
